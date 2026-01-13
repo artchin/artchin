@@ -14,4 +14,3 @@
 
 ### Contact
 [![Telegram](https://img.shields.io/badge/Telegram-@artchin__tg-blue)](https://t.me/artchin_tg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-artchin-blue)](https://linkedin.com/in/YOUR_LINK)
