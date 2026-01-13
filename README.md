@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Arthur 👋
 
-<!--
-**artchin/artchin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer** focused on Big Data processing and ETL pipelines.
 
-Here are some ideas to get you started:
+### Stack
+`Python` `SQL` `Hadoop` `Hive` `Spark` `Kafka` `PostgreSQL` `Airflow`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- 🎓 Data Engineering program at **MIPT** (Moscow Institute of Physics and Technology)
+- 🔨 Building distributed data pipelines on Hadoop ecosystem
+
+### Background
+13 years of experience working with large-scale data: HR databases (LinkedIn 1B+ profiles, HeadHunter 90M+ records), ATS/HRM automation, analytics and reporting.
+
+### Contact
+[![Telegram](https://img.shields.io/badge/Telegram-@artchin__tg-blue)](https://t.me/artchin_tg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-artchin-blue)](https://linkedin.com/in/YOUR_LINK)
